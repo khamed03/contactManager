@@ -1,5 +1,5 @@
 import React from 'react';
-import '../css/ContactItem.css';
+import 'git./css/ContactItem.css';
 
 function ContactItem({ number, contact, deleteContact }) {
   return (
